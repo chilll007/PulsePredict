@@ -1,0 +1,16 @@
+<svg width="120" height="140" viewBox="0 0 120 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Top circle - outer -->
+  <circle cx="60" cy="30" r="25" fill="#C2185B"/>
+  <!-- Top circle - inner hole -->
+  <circle cx="60" cy="30" r="8" fill="white"/>
+
+  <!-- Bottom left circle - outer -->
+  <circle cx="30" cy="90" r="25" fill="#C2185B"/>
+  <!-- Bottom left circle - inner hole -->
+  <circle cx="30" cy="90" r="8" fill="white"/>
+
+  <!-- Bottom right circle - outer -->
+  <circle cx="90" cy="90" r="25" fill="#C2185B"/>
+  <!-- Bottom right circle - inner hole -->
+  <circle cx="90" cy="90" r="8" fill="white"/>
+</svg>
